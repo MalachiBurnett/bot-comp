@@ -14,6 +14,9 @@ then you can either zip the folder and email it to me at maliburnett@icloud.com 
 ### prize
 there will be a £5 cash prize awarded to the bot that wins the most games. in the case of a tie between bots, the creators of the bots can play a game of chess on chess.com to decide who gets the prize money. if it turns out that this game can be solved and played perfectly such that one colour can alway win, the first person to prove this will be awarded the cash prize instead and the competition wont happen.
 
+### Deadline
+Submissions for this competition close on saturday 2nd of May 2026 at midnight (GMT). winner will be revealed on sunday 03 May 2026 at 7PM (GMT). note that these times may be subject to change since it is impossible to tell what can happen between now and then.
+
 ## Game Rules
 **Slide** is a 6x6 strategy game where pieces slide until they hit an obstacle.
 
