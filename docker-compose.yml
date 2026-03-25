@@ -1,0 +1,7 @@
+services:
+  tournament:
+    build: .
+    volumes:
+      - ./submissions:/app/submissions
+    # By default, this will run judge.py as specified in the Dockerfile
+    # To run a specific command, use: docker-compose run tournament python <script>.py
