@@ -2,6 +2,18 @@
 
 Welcome to the **Slide** Bot-Building Competition! This kit contains everything you need to develop, test, and submit your bot. if you would like to play the game first, you can do so at https://slide.wiizardsoftware.uk/
 
+### Submissions
+once you have perfected your bot, please put it into a folder with your bot.py, any other files your bot includes, and an info.txt containing:
+your bots nickname,
+your name,
+your username on slide.wiizardsoftware.uk,
+and your contact info in case you win.
+
+then you can either zip the folder and email it to me at maliburnett@icloud.com or you can put it on a github repositiory (either unlisted or public) as a branch of this repository if its public or send a link via email if its unlisted.
+
+### prize
+there will be a £5 cash prize awarded to the bot that wins the most games. in the case of a tie between bots, the creators of the bots can play a game of chess on chess.com to decide who gets the prize money. if it turns out that this game can be solved and played perfectly such that one colour can alway win, the first person to prove this will be awarded the cash prize instead and the competition wont happen.
+
 ## Game Rules
 **Slide** is a 6x6 strategy game where pieces slide until they hit an obstacle.
 
