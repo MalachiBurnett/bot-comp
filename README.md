@@ -1,5 +1,7 @@
 # Slide Bot Competition - DevKit
 
+While your here, why dont you check out my portfolio at https://portfolio.wiizardsoftware.uk/ to see some of the other fun projects i have made
+
 Welcome to the **Slide** Bot-Building Competition! This kit contains everything you need to develop, test, and submit your bot. if you would like to play the game first, you can do so at https://slide.wiizardsoftware.uk/
 
 ### Submissions
